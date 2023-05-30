@@ -54,11 +54,7 @@ public class Topicos {
         }
         if(datosActualizarTopico.curso() != null){
             this.curso = datosActualizarTopico.curso();
-<<<<<<< HEAD
-        
-=======
 
->>>>>>> julio
         }
     }
 }
