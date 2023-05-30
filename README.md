@@ -54,6 +54,7 @@ El proyecto permite crear, listar todos, actualizar, eliminar y obtener un espec
 Nota: el path para el CRUD de los topicos es: /topicos y el path para logearse es /login, recordar que:
 * Los metodos obtener un topico y DELETE debes agregar ademas del path un numero (/topicos/3). 
 * Se uso el algoritmo HMAC256
+* El repositorio tiene dos Branch la main y julio, donde en la main solo se realizo el código para el CRUD y en la julio se protegio la API y se genera su respectivo JWT a cada usuario que se logea. 
 
 <h2> 📁 Acceso al proyecto </h2>
 
